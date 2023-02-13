@@ -1,7 +1,7 @@
 import profileKatakana from 'assets/katakana-profile.svg?url';
-import profileImgLarge from 'assets/profile-large.jpg';
-import profileImgPlaceholder from 'assets/profile-placeholder.jpg';
-import profileImg from 'assets/profile.jpg';
+import profileImgLarge from 'assets/me.png';
+import profileImgPlaceholder from 'assets/me.png';
+import profileImg from 'assets/me.png';
 import { Button } from 'components/Button';
 import { DecoderText } from 'components/DecoderText';
 import { Divider } from 'components/Divider';
@@ -21,16 +21,15 @@ const ProfileText = ({ visible, titleId }) => (
       <DecoderText text="Hi there" start={visible} delay={500} />
     </Heading>
     <Text className={styles.description} data-visible={visible} size="l" as="p">
-      I’m Hamish, currently I live in Sydney working as a senior product designer at{' '}
-      <Link href="https://www.qwilr.com">Qwilr</Link>. My projects include UX design, UI
-      animations, and icon illustration. Being comfortable with code allows me to rapidly
-      prototype and validate experiences. If you’re interested in the tools and software I
-      use check out my <Link href="/uses">uses page</Link>.
+      I’m Wasif Ali, currently I live in Lahore, Pakistan and working as a senior software
+      engineer at <Link href="https://www.tkxel.com">Tkxel</Link>. My projects include
+      SAAS, UI animations, and icon illustration. Being comfortable with code allows me to
+      rapidly prototype and validate experiences. If you’re interested in the tools and
+      software I use check out my <Link href="/uses">uses page</Link>.
     </Text>
     <Text className={styles.description} data-visible={visible} size="l" as="p">
-      In my spare time I like to practice Brazilian Jiu Jitsu, play video games, and{' '}
-      <Link href="/projects/volkihar-knight">make mods</Link>. I’m always down for hearing
-      about new projects, so feel free to drop me a line.
+      In my spare time I like to read, play video games. I’m always down for hearing about
+      new projects, so feel free to drop me a line.
     </Text>
   </Fragment>
 );

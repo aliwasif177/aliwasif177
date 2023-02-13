@@ -10,7 +10,7 @@ _______________________________________________________________________________
 
 DESIGNER | デザイナー
 
-Hamish Williams
+Wasif Ali 
 Hand crafted design & web development
 
 Design tools:
@@ -18,8 +18,6 @@ Figma
 Photoshop
 Blender
 
-twitter.com/hamishmw
-github.com/hamishmw
 
 _______________________________________________________________________________
 
@@ -29,6 +27,7 @@ React
 Next.js
 Three.js
 Framer Motion
+BlockChain
 
 _______________________________________________________________________________
 

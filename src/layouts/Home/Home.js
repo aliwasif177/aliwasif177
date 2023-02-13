@@ -1,15 +1,15 @@
-import gamestackTexture2Large from 'assets/gamestack-list-large.jpg';
-import gamestackTexture2Placeholder from 'assets/gamestack-list-placeholder.jpg';
-import gamestackTexture2 from 'assets/gamestack-list.jpg';
-import gamestackTextureLarge from 'assets/gamestack-login-large.jpg';
-import gamestackTexturePlaceholder from 'assets/gamestack-login-placeholder.jpg';
-import gamestackTexture from 'assets/gamestack-login.jpg';
-import sliceTextureLarge from 'assets/slice-app-large.jpg';
-import sliceTexturePlaceholder from 'assets/slice-app-placeholder.jpg';
-import sliceTexture from 'assets/slice-app.jpg';
-import sprTextureLarge from 'assets/spr-lesson-builder-dark-large.jpg';
-import sprTexturePlaceholder from 'assets/spr-lesson-builder-dark-placeholder.jpg';
-import sprTexture from 'assets/spr-lesson-builder-dark.jpg';
+import gamestackTexture2Large from 'assets/a2.png';
+import gamestackTexture2Placeholder from 'assets/a2.png';
+import gamestackTexture2 from 'assets/a2.png';
+import gamestackTextureLarge from 'assets/a2.png';
+import gamestackTexturePlaceholder from 'assets/a2.png';
+import gamestackTexture from 'assets/a2.png';
+import sliceTextureLarge from 'assets/a3.png';
+import sliceTexturePlaceholder from 'assets/a3.png';
+import sliceTexture from 'assets/a3.png';
+import sprTextureLarge from 'assets/a1.png';
+import sprTexturePlaceholder from 'assets/a1.png';
+import sprTexture from 'assets/a1.png';
 import { Footer } from 'components/Footer';
 import { Meta } from 'components/Meta';
 import { Intro } from 'layouts/Home/Intro';
@@ -18,7 +18,7 @@ import { ProjectSummary } from 'layouts/Home/ProjectSummary';
 import { useEffect, useRef, useState } from 'react';
 import styles from './Home.module.css';
 
-const disciplines = ['Developer', 'Prototyper', 'Animator', 'Illustrator', 'Modder'];
+const disciplines = ['Frontend', 'Backened'];
 
 export const Home = () => {
   const [visibleSections, setVisibleSections] = useState([]);
@@ -68,8 +68,8 @@ export const Home = () => {
   return (
     <div className={styles.home}>
       <Meta
-        title="Designer + Developer"
-        description="Design portfolio of Hamish Williams — a product designer working on web & mobile
+        title="Senior Fullstack Developer"
+        description="Portfolio of Wasif Ali — a product developer working on web & mobile
           apps with a focus on motion, experience design, and accessibility."
       />
       <Intro
@@ -83,13 +83,13 @@ export const Home = () => {
         sectionRef={projectOne}
         visible={visibleSections.includes(projectOne.current)}
         index={1}
-        title="Designing the future of education"
-        description="Designing a platform to help educators build better online courseware"
+        title="Reimagine Decentralized with Nitro League "
+        description="Nitro League officially entered the public realm with their token launch $NITRO, in December 2021. But long before that, there was a plan and a vision. We wanted to build metaverse-ready NFTs that could solve the main problems within NFT markets today: lack of liquidity, lack of utility, and centralization."
         buttonText="View project"
-        buttonLink="/projects/smart-sparrow"
+        buttonLink="https://nitroleague.com/racing"
         model={{
           type: 'laptop',
-          alt: 'Smart Sparrow lesson builder',
+          alt: 'Nitro League',
           textures: [
             {
               srcSet: [sprTexture, sprTextureLarge],
@@ -104,12 +104,12 @@ export const Home = () => {
         sectionRef={projectTwo}
         visible={visibleSections.includes(projectTwo.current)}
         index={2}
-        title="Video game progress tracking"
-        description="Design and development for a video game tracking app built in React Native"
+        title="Botics Incorparating Ai with robotics"
+        description="Our SaaS platform makes adopting robotics & automation faster and easier"
         buttonText="View website"
-        buttonLink="https://gamestack.hamishw.com"
+        buttonLink="https://botics.dev/"
         model={{
-          type: 'phone',
+          type: 'laptop',
           alt: 'App login screen',
           textures: [
             {
@@ -128,13 +128,13 @@ export const Home = () => {
         sectionRef={projectThree}
         visible={visibleSections.includes(projectThree.current)}
         index={3}
-        title="Biomedical image collaboration"
-        description="Increasing the amount of collaboration in Slice, an app for biomedical imaging"
+        title="Holedo TMR."
+        description="Holedo makes the hospitality sector an attractive career choice and enables employers to develop and recruit skilled professionals."
         buttonText="View project"
-        buttonLink="/projects/slice"
+        buttonLink="https://www.holedo.com/recruitment/"
         model={{
           type: 'laptop',
-          alt: 'Annotating a biomedical image in the Slice app',
+          alt: 'Holedo TMR',
           textures: [
             {
               srcSet: [sliceTexture, sliceTextureLarge],
