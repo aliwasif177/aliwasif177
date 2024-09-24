@@ -7,7 +7,9 @@ My go-to stack is Next.js (with TypeScript & SaSS), previously MERN Stack for we
 * ⚡  Ask me about anything, I am happy to help
 
 <br />
- <a href="https://www.github.com/aliwasif177" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/aliwasif177?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
+ <a href="https://www.github.com/aliwasif177" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/aliwasif177?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a><a href="https://www.linkedin.com/in/aliwasif177" target="_blank" rel="noreferrer"><img
+src="[https://img.shields.io/twitter/follow/aliwasif177?logo=linkedin&style=for-the-badge&color=22c55e&labelColor=1c1917](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)"
+/></a>
 
 #### Socials
 
