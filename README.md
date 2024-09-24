@@ -1,5 +1,5 @@
-Hey 👋🏻, I'm Wasif Ali!
-Javascript Engineer 🚀
+## Hey 👋🏻, I'm [Wasif Ali!](https://wasif.dev) 
+### Javascript Engineer 🚀
 My go-to stack is Next.js (with TypeScript & SaSS), previously MERN Stack for web-based solutions. I have collaborated with developers to create a variety of open-source solutions.
 
 * 🖥️  See my portfolio at [wasif.dev](http://wasif.dev)
