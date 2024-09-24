@@ -3,7 +3,7 @@ Javascript Engineer 🚀
 My go-to stack is Next.js (with TypeScript & SaSS), previously MERN Stack for web-based solutions. I have collaborated with developers to create a variety of open-source solutions.
 
 * 🖥️  See my portfolio at [wasif.dev](http://wasif.dev)
-* 📫  You can reach me at [contact@amanjag.dev](mailto:aliwasif177@gmail.com)
+* 📫  You can reach me at [contact@aliwasif177](mailto:aliwasif177@gmail.com)
 * ⚡  Ask me about anything, I am happy to help
 
 <br />
