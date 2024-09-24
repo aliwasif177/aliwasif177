@@ -1,11 +1,14 @@
 Hey 👋🏻, I'm Wasif Ali!
-Developer & Designer 🚀
+Javascript Engineer 🚀
 My go-to stack is Next.js (with TypeScript & SaSS), previously MERN Stack for web-based solutions. I have collaborated with developers to create a variety of open-source solutions.
 
-🖥️ See my portfolio at wasif.dev
-📫 You can reach me at contact@wasif.dev
-⚡ Ask me about anything, I am happy to help!
-<br /> <a href="https://www.github.com/aliwasif177" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/aliwasif177?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
+* 🖥️  See my portfolio at [wasif.dev](http://wasif.dev)
+* 📫  You can reach me at [contact@amanjag.dev](mailto:aliwasif177@gmail.com)
+* ⚡  Ask me about anything, I am happy to help
+
+<br />
+ <a href="https://www.github.com/aliwasif177" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/aliwasif177?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
+<br/>
 Socials
 <p align="left"> <a href="https://www.github.com/aliwasif177" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="28" height="28" /></a> <a href="https://www.linkedin.com/in/aliwasif177/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" /></a> <a href="https://stackoverflow.com/users/11987013/wasif-ali" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="28" height="28" /></a> <a href="https://medium.com/@aliwasif177" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="28" height="28" /></a> </p>
 Languages and Tools
